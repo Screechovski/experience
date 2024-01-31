@@ -1,0 +1,24 @@
+{
+  "name": "dmyavl-exp",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Screechovski/experience.git"
+  },
+  "author": "Yaroslav Dmitriev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Screechovski/experience/issues"
+  },
+  "homepage": "https://github.com/Screechovski/experience#readme",
+  "devDependencies": {
+    "axios": "^1.6.7",
+    "prettier": "^3.2.4",
+    "vue": "^3.4.15"
+  }
+}
